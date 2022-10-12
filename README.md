@@ -12,7 +12,11 @@ Kết quả :
 ```php
 Nhu Viet Hoang
 viethoangnhu@gmail.com
-module\src\Collection Object ( [elements:module\src\Collection:private] => Array ( [0] => module\src\TestData Object ( [original:protected] => Array ( ) [casts:protected] => Array ( ) [attributes:module\src\Data:private] => Array ( [name] => Nhu Viet Hoang [age] => 22 [address] => Ha Nam ) ) [1] => module\src\TestData Object ( [original:protected] => Array ( ) [casts:protected] => Array ( ) [attributes:module\src\Data:private] => Array ( [name] => Nhu Hai Ngoc [age] => 28 [address] => Ha Nam ) ) [2] => module\src\TestData Object ( [original:protected] => Array ( ) [casts:protected] => Array ( ) [attributes:module\src\Data:private] => Array ( [name] => Hoang Thi Thom [age] => 27 [address] => Thanh Hoa ) ) [3] => module\src\TestData Object ( [original:protected] => Array ( ) [casts:protected] => Array ( ) [attributes:module\src\Data:private] => Array ( [name] => Nhu Hoang Minh Khoi [age] => 1 [address] => Ha Nam ) ) ) ) 
+module\src\Collection Object ( [elements:module\src\Collection:private] => Array ( [0] => module\src\TestData
+Object ( [original:protected] => Array ( ) [casts:protected] => Array ( ) [attributes:module\src\Data:private] => Array ( [name] => Nhu Viet Hoang [age] => 22 [address] => Ha Nam ) ) [1] => module\src\TestData 
+Object ( [original:protected] => Array ( ) [casts:protected] => Array ( ) [attributes:module\src\Data:private] => Array ( [name] => Nhu Hai Ngoc [age] => 28 [address] => Ha Nam ) ) [2] => module\src\TestData 
+Object ( [original:protected] => Array ( ) [casts:protected] => Array ( ) [attributes:module\src\Data:private] => Array ( [name] => Hoang Thi Thom [age] => 27 [address] => Thanh Hoa ) ) [3] => module\src\TestData 
+Object ( [original:protected] => Array ( ) [casts:protected] => Array ( ) [attributes:module\src\Data:private] => Array ( [name] => Nhu Hoang Minh Khoi [age] => 1 [address] => Ha Nam ) ) ) ) 
 
 ```
 
