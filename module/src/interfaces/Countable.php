@@ -1,5 +1,5 @@
 <?php
-namespace  module\interfaces\Countalbe;
+namespace  module\src\interfaces;
 
 interface Countable{
     public function count();

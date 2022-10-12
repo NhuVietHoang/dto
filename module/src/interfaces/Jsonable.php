@@ -1,5 +1,5 @@
 <?php
-namespace module\interfaces\Jsosable;
+namespace module\src\interfaces;
 
 interface Jsonable {
     public function toJsonable();
